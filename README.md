@@ -6,6 +6,8 @@ Mata kuliah : Bahasa Pemrograman <p>
 # ```Program Input Nilai```
 ## Flowchart
 (![flcrt1](https://github.com/user-attachments/assets/a3c9962b-9a43-4b1a-90d5-245b5e350522)
+![flcrt2](https://github.com/user-attachments/assets/592dbff3-82ed-4fd0-86d7-b9f0dc17747b)
+
 ## Code Program
 <img width="960" alt="Kode Python" src="https://github.com/user-attachments/assets/2f49718c-14a9-40f8-b40d-78d5db0ace2a">
 <img width="960" alt="Kode Python 2" src="https://github.com/user-attachments/assets/dc3d037a-4de3-4fe2-bf59-a26553183b30">
