@@ -122,6 +122,9 @@ Mata kuliah : Bahasa Pemrograman <p>
      - **Keluar (```k```)**: Keluar dari program.
 ## Output/Hasil program
 
+<img width="960" alt="Hasil Program" src="https://github.com/user-attachments/assets/3cb2d1df-45e1-4ec4-8105-f35b8058bd3e">
+
+
        
 
 
